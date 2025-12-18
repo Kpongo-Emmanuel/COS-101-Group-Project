@@ -1,5 +1,5 @@
 
-Languages = 'Tiv = "a"\nIgbo = "b"\nJenjo = "c"\nEfik = d              #  PLEASE PUT YOUR LANGUAGE DIRECTLY BESIDE THE "\n" (no spacing) in the order you see (i.e \nYoruba = "c") the fifth person should not include the "\n" after their language
+Languages = 'Tiv = "a"\nIgbo = "b"\nJenjo = "c"\nEfik = d\n'              #  PLEASE PUT YOUR LANGUAGE DIRECTLY BESIDE THE "\n" (no spacing) in the order you see (i.e \nYoruba = "c") the fifth person should not include the "\n" after their language
 eng_words = 'come\ntake\nsee\ngo\neat\nhouse\nsleep\nwalk\nwork\nplay\nask\nfood\nwater\nplease\neyes\nmake\nname\nlike\nlove\ngood'
 print('Welcome to the universal dictionary you may choose from the following languages')
 print(Languages)
