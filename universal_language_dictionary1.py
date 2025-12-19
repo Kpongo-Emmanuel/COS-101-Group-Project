@@ -17,6 +17,7 @@ Efik_dictionary = {"hello": "mfo", "goodbye": "ka do", "thank you": "sosongo", "
                    "school": "ufok mme", "book": "mbuk", "sun": "utong", "moon": "onen", "money": "owo",
                    "work": "utomo", "name": "enyin"}
 Igbo_dictionary ={'Hello' : 'Ndewo' , 'Please' : 'Biko' , 'Thank you' : 'Daalu' , 'No' : 'Mba' , 'Yes' : 'Ee' , 'Chair' : 'Oche' , 'Cup' : 'Iko' , 'Mother' : 'Nne' , 'Father' : 'Nna' , 'Child' : 'Nwa' , 'Water' : 'Mmiri' , 'Road' : 'Uzo', 'House' : 'Ulo' , 'Book' : 'Akwukwo' , 'Eye' : 'Anya' , 'Head' : 'Isi' , 'Ground' : 'Ala' , 'Body' : 'Ahu' , 'Day' : 'Ubochi' , 'Money' : 'Ego'}
+yoruba_dictionary = {"chair" : "alaga", "towel" : "aso inura", "friend" : "ore", "food" : "onuje", "leg" : "ese", "come" : "wa", "sit" : "joko",  "read" : "ka",  "laugh" : "rerin",  "smoke" : "efin", "boy" : "omokunrin", "drink" : "mimu", "sing" : "korin", "running" : "nsise", "black" : "dudu", "white" : "funfun", "rice" : "iresi", "lamp" : "atupa", "car" : "oko ayokele", "dance" : "ijo"}
 
 Tiv_dict_words = 'come\ntake\nsee\ngo\neat\nhouse\nsleep\nwalk\nwork\nplay\nask\nfood\nwater\nplease\neyes\nmake\nname\nlike\nlove\ngood'
 Jenjo_dict_words = 'Water\nAir\nFire\nEarth\nTree\nCat\nMoon\nRed\nPurple\nBrother\nSister\nFather\nSand\nDog\nMan\nPhone\nHammer\nStory\nBed\nTall'
