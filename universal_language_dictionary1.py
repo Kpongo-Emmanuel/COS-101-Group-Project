@@ -72,4 +72,10 @@ while True:
 
         if language_choice == 'e':
             print('you have chosen Yoruba language, you may now choose from the following words to translate:')  # this is for Uriel, please replace 'Your_language' with your language for the dictionary
-            # ---> Print your list of english words on this line (you can delete this)
+            print(Yoruba_dict_words)
+            Yoruba_word = input('what word would you like to translate?')
+
+            if Yoruba_word in Yoruba_dict_words:
+             print(Yoruba_word, 'means', yoruba_dictionary[Yoruba_word], 'in Yoruba')
+            else:
+                print("Sorry, that word is not in the dictionary.")
